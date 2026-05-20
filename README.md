@@ -1,11 +1,11 @@
 <h1 align="center">¡Hola! 👋 Soy Dilan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Ciencias+y+Sistemas;Full-Stack+Developer;ERP+Implementer;Instructor+de+Innovaci%C3%B3n" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Ingeniero+en+Ciencias+y+Sistemas;Full-Stack+Developer;ERP+Implementer;Instructor+de+Innovaci%C3%B3n" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SUY2407&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SUY2407&label=Profile%20views&color=bd93f9&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/SUY2407?label=Followers&style=social" alt="followers" />
 </p>
 
@@ -85,9 +85,23 @@ Sistema de monitoreo de seguridad a nivel kernel sobre **Linux 6.6** con syscall
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUY2407&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
+
+## 📊 Lenguajes Más Usados
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUY2407&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUY2407&layout=default&theme=dracula&hide_border=true&langs_count=10&card_width=500" alt="Top Languages" />
 </p>
+
+> 💡 *Tip: el layout `default` muestra **barras horizontales con porcentajes** — exactamente lo que querías.*
+
+<details>
+  <summary>🍩 Ver también como gráfico donut</summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUY2407&layout=donut&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages Donut" />
+  </p>
+</details>
 
 ---
 
@@ -102,7 +116,7 @@ Sistema de monitoreo de seguridad a nivel kernel sobre **Linux 6.6** con syscall
 ## 📈 Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUY2407&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUY2407&theme=dracula&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
