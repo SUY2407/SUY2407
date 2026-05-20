@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Dilan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Ingeniero+en+Ciencias+y+Sistemas;Full-Stack+Developer;ERP+Implementer;Instructor+de+Innovaci%C3%B3n" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Ingeniero+en+Ciencias+y+Sistemas;Full-Stack+Developer;ERP+Implementer;Instructor+de+Innovaci%C3%B3n" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ Sistema de monitoreo de seguridad a nivel kernel sobre **Linux 6.6** con syscall
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUY2407&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SUY2407&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUY2407&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SUY2407&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -90,16 +90,14 @@ Sistema de monitoreo de seguridad a nivel kernel sobre **Linux 6.6** con syscall
 ## 📊 Lenguajes Más Usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUY2407&layout=default&theme=dracula&hide_border=true&langs_count=10&card_width=500" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SUY2407&layout=default&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
-
-> 💡 *Tip: el layout `default` muestra **barras horizontales con porcentajes** — exactamente lo que querías.*
 
 <details>
   <summary>🍩 Ver también como gráfico donut</summary>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUY2407&layout=donut&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages Donut" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SUY2407&layout=donut&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages Donut" />
   </p>
 </details>
 
