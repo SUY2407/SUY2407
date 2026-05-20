@@ -78,7 +78,7 @@ Sistema de monitoreo de seguridad a nivel kernel sobre **Linux 6.6** con syscall
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SUY2407&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SUY2407&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -90,14 +90,14 @@ Sistema de monitoreo de seguridad a nivel kernel sobre **Linux 6.6** con syscall
 ## 📊 Lenguajes Más Usados
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SUY2407&layout=default&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SUY2407&layout=default&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
 <details>
   <summary>🍩 Ver también como gráfico donut</summary>
 
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SUY2407&layout=donut&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages Donut" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SUY2407&layout=donut&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages Donut" />
   </p>
 </details>
 
