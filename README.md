@@ -78,15 +78,15 @@ Sistema de monitoreo de seguridad a nivel kernel sobre **Linux 6.6** con syscall
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUY2407&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUY2407&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUY2407&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUY2407&theme=merko&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUY2407&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUY2407&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -94,7 +94,7 @@ Sistema de monitoreo de seguridad a nivel kernel sobre **Linux 6.6** con syscall
 ## 🏆 Trofeos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUY2407&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SUY2407&theme=merko&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
