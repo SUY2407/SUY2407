@@ -1,163 +1,167 @@
-<h1 align="center">¡Hola! 👋 Soy Dilan</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Ingeniero+en+Ciencias+y+Sistemas;Full-Stack+Developer;ERP+Implementer;Instructor+de+Innovaci%C3%B3n" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c8f55a&height=120&section=header&fontColor=0a0a0a&fontSize=0" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SUY2407&label=Profile%20views&color=bd93f9&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/SUY2407?label=Followers&style=social" alt="followers" />
-</p>
+```
+██████╗ ██╗██╗      █████╗ ███╗   ██╗    ███╗   ███╗██╗██████╗  █████╗ ███╗   ██╗██████╗  █████╗
+██╔══██╗██║██║     ██╔══██╗████╗  ██║    ████╗ ████║██║██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗
+██║  ██║██║██║     ███████║██╔██╗ ██║    ██╔████╔██║██║██████╔╝███████║██╔██╗ ██║██║  ██║███████║
+██║  ██║██║██║     ██╔══██║██║╚██╗██║    ██║╚██╔╝██║██║██╔══██╗██╔══██║██║╚██╗██║██║  ██║██╔══██║
+██████╔╝██║███████╗██║  ██║██║ ╚████║    ██║ ╚═╝ ██║██║██║  ██║██║  ██║██║ ╚████║██████╔╝██║  ██║
+╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝
+```
 
----
+### `> Software Developer · Systems Engineer · Guatemala 🇬🇹`
 
-## 🧑‍💻 Sobre mí
+[![Portfolio](https://img.shields.io/badge/Portfolio-dilan--miranda.netlify.app-c8f55a?style=for-the-badge&logo=netlify&logoColor=0a0a0a&labelColor=0a0a0a)](https://dilan-miranda.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dilan--suy-c8f55a?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a)](https://www.linkedin.com/in/dilan-suy/)
+[![Email](https://img.shields.io/badge/Email-dilansuy24@gmail.com-c8f55a?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=0a0a0a)](mailto:dilansuy24@gmail.com)
 
-- 🎓 Estudiante de último semestre de **Ingeniería en Ciencias y Sistemas** en la **USAC**
-- 💼 Instructor de Innovación en **IES** y Tutor Académico de Organización Computacional en **CPFECYS**
-- 🌎 Desde **Guatemala** 🇬🇹
-- 🚀 Buscando oportunidades en desarrollo **backend / frontend**
-- ⚡ Fun fact: me encanta automatizar todo lo que se pueda automatizar
-
----
-
-## 🛠️ Stack Tecnológico
-
-### Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Bases de Datos
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### Herramientas y DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Proyectos Destacados
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=SUY2407&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&border_color=c8f55a&title_color=c8f55a&icon_color=c8f55a&text_color=f0ede6&hide_border=false&rank_icon=github" />
 
-### 🦷 Banco de Pacientes FOUSAC
-Sistema integral de gestión de pacientes para la Facultad de Odontología USAC. **4 roles, 10 módulos, 11 sprints de Scrum.**
-> `Node.js` `Express` `React` `PostgreSQL` `Prisma`
+### `$ whoami`
 
-### 🛒 QuetzalMart — Implementación ERP
-Despliegue completo de **Odoo 17 en GCP** con eCommerce, integración GA4, scripts XML-RPC y automatización de marketing.
-> `Odoo 17` `GCP` `Python` `XML-RPC` `GA4`
+```yaml
+name:     Dilan Conaher Suy Miranda
+role:     Software Developer
+degree:   Pensum-completed — Ing. en Ciencias y Sistemas
+school:   USAC Facultad de Ingeniería, Guatemala
+status:   Open to work 🟢
+focus:    Backend · Frontend · Distributed Systems
+```
 
-### 🔐 Kernel Security Monitor
-Sistema de monitoreo de seguridad a nivel kernel sobre **Linux 6.6** con syscalls personalizadas, daemon multi-hilo con PAM + SHA-256 y dashboard web.
-> `C` `Linux Kernel` `PAM` `Web Dashboard`
+### `$ cat interests.txt`
 
----
+```
+⚙️  Linux Kernel & Systems Programming
+🌐  Full-Stack Web Development
+🗄️  Database Engineering & Administration
+☁️  Cloud & DevOps (GCP · AWS · Azure)
+🤖  ERP Implementation & Automation
+```
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SUY2407&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SUY2407&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📊 Lenguajes Más Usados
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SUY2407&layout=default&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
-<details>
-  <summary>🍩 Ver también como gráfico donut</summary>
-
-  <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SUY2407&layout=donut&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages Donut" />
-  </p>
-</details>
+<br clear="right"/>
 
 ---
 
-## 🏆 Trofeos
+### `$ cat tech_stack.sh`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUY2407&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-c8f55a?style=flat-square&logo=openjdk&logoColor=0a0a0a)
+![JavaScript](https://img.shields.io/badge/JavaScript-c8f55a?style=flat-square&logo=javascript&logoColor=0a0a0a)
+![TypeScript](https://img.shields.io/badge/TypeScript-c8f55a?style=flat-square&logo=typescript&logoColor=0a0a0a)
+![Python](https://img.shields.io/badge/Python-c8f55a?style=flat-square&logo=python&logoColor=0a0a0a)
+![C#](https://img.shields.io/badge/C%23-c8f55a?style=flat-square&logo=csharp&logoColor=0a0a0a)
+![Go](https://img.shields.io/badge/Go-c8f55a?style=flat-square&logo=go&logoColor=0a0a0a)
+![PHP](https://img.shields.io/badge/PHP-c8f55a?style=flat-square&logo=php&logoColor=0a0a0a)
+![C++](https://img.shields.io/badge/C++-c8f55a?style=flat-square&logo=cplusplus&logoColor=0a0a0a)
+![C](https://img.shields.io/badge/C-c8f55a?style=flat-square&logo=c&logoColor=0a0a0a)
+![Dart](https://img.shields.io/badge/Dart-c8f55a?style=flat-square&logo=dart&logoColor=0a0a0a)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=c8f55a)
+![Angular](https://img.shields.io/badge/Angular-141414?style=flat-square&logo=angular&logoColor=c8f55a)
+![Vue.js](https://img.shields.io/badge/Vue.js-141414?style=flat-square&logo=vuedotjs&logoColor=c8f55a)
+![Astro](https://img.shields.io/badge/Astro-141414?style=flat-square&logo=astro&logoColor=c8f55a)
+![Tailwind](https://img.shields.io/badge/Tailwind-141414?style=flat-square&logo=tailwindcss&logoColor=c8f55a)
+![HTML5](https://img.shields.io/badge/HTML5-141414?style=flat-square&logo=html5&logoColor=c8f55a)
+![CSS3](https://img.shields.io/badge/CSS3-141414?style=flat-square&logo=css3&logoColor=c8f55a)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-c8f55a?style=flat-square&logo=nodedotjs&logoColor=0a0a0a)
+![Express](https://img.shields.io/badge/Express-c8f55a?style=flat-square&logo=express&logoColor=0a0a0a)
+![NestJS](https://img.shields.io/badge/NestJS-c8f55a?style=flat-square&logo=nestjs&logoColor=0a0a0a)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-c8f55a?style=flat-square&logo=springboot&logoColor=0a0a0a)
+![Django](https://img.shields.io/badge/Django-c8f55a?style=flat-square&logo=django&logoColor=0a0a0a)
+![FastAPI](https://img.shields.io/badge/FastAPI-c8f55a?style=flat-square&logo=fastapi&logoColor=0a0a0a)
+![Laravel](https://img.shields.io/badge/Laravel-c8f55a?style=flat-square&logo=laravel&logoColor=0a0a0a)
+![Flask](https://img.shields.io/badge/Flask-c8f55a?style=flat-square&logo=flask&logoColor=0a0a0a)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=c8f55a)
+![MySQL](https://img.shields.io/badge/MySQL-141414?style=flat-square&logo=mysql&logoColor=c8f55a)
+![MongoDB](https://img.shields.io/badge/MongoDB-141414?style=flat-square&logo=mongodb&logoColor=c8f55a)
+![Oracle](https://img.shields.io/badge/Oracle-141414?style=flat-square&logo=oracle&logoColor=c8f55a)
+![Redis](https://img.shields.io/badge/Redis-141414?style=flat-square&logo=redis&logoColor=c8f55a)
+![SQLite](https://img.shields.io/badge/SQLite-141414?style=flat-square&logo=sqlite&logoColor=c8f55a)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-c8f55a?style=flat-square&logo=git&logoColor=0a0a0a)
+![Docker](https://img.shields.io/badge/Docker-c8f55a?style=flat-square&logo=docker&logoColor=0a0a0a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-c8f55a?style=flat-square&logo=kubernetes&logoColor=0a0a0a)
+![Linux](https://img.shields.io/badge/Linux-c8f55a?style=flat-square&logo=linux&logoColor=0a0a0a)
+![GCP](https://img.shields.io/badge/GCP-c8f55a?style=flat-square&logo=googlecloud&logoColor=0a0a0a)
+![AWS](https://img.shields.io/badge/AWS-c8f55a?style=flat-square&logo=amazonwebservices&logoColor=0a0a0a)
+![Azure](https://img.shields.io/badge/Azure-c8f55a?style=flat-square&logo=microsoftazure&logoColor=0a0a0a)
+![Terraform](https://img.shields.io/badge/Terraform-c8f55a?style=flat-square&logo=terraform&logoColor=0a0a0a)
+![Odoo](https://img.shields.io/badge/Odoo-c8f55a?style=flat-square&logo=odoo&logoColor=0a0a0a)
+
+</div>
 
 ---
 
-## 📈 Actividad
+### `$ git log --oneline --featured`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUY2407&theme=dracula&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:TU_CORREO@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/SUY2407">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+```
+a1f3c2e ✅  Banco de Pacientes FOUSAC      — Node.js · React · PostgreSQL · Prisma
+b84e01a ✅  Linux Kernel Security Monitor  — C · Linux 6.6 · PAM · SHA-256 · Docker
+f9c720d ✅  QuetzalMart ERP (Odoo 17)      — Python · GCP · XML-RPC · CRM
+d2a881c ✅  World Cup Data Platform        — MongoDB · Flask · Oracle 21c · RMAN
+e5f3901 ✅  Bully Algorithm Leader Election — C++ · Vector Clocks · Distributed Systems
+c7b2240 ✅  Compiler & Interpreter         — Java · JFlex · JCup · Python
+9a1f034 ✅  Automata & Derivation Trees    — Python · Golang
+```
 
 ---
 
-<p align="center">
-  <i>⭐ From <a href="https://github.com/SUY2407">SUY2407</a> — "El código habla más fuerte que las palabras."</i>
-</p>
+### `$ cat stats.json`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUY2407&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&border_color=c8f55a&title_color=c8f55a&text_color=f0ede6&hide_border=false&langs_count=8" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SUY2407&theme=chartreuse-dark&background=0a0a0a&border=c8f55a&ring=c8f55a&fire=c8f55a&currStreakLabel=c8f55a&sideLabels=f0ede6&dates=7a7a72" />
+
+</div>
+
+---
+
+### `$ cat certifications.txt`
+
+```
+▸  CCNA 1 — Introduction to Networks
+▸  Didácticas de la Matemáticas
+▸  Introduction to Golang
+▸  Cableado Estructurado de Redes
+▸  Introduction to Python · Python Básico
+▸  Angular 17
+▸  Java Básico · Java Intermedio
+```
+
+---
+
+<div align="center">
+
+### `$ echo "Let's build something."`
+
+```
+Available for backend · frontend · freelance · full-time roles
+```
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-dilan--miranda.netlify.app-c8f55a?style=for-the-badge&labelColor=0a0a0a)](https://dilan-miranda.netlify.app)
+[![Email](https://img.shields.io/badge/✉_Send_Email-dilansuy24@gmail.com-c8f55a?style=for-the-badge&labelColor=0a0a0a)](mailto:dilansuy24@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c8f55a&height=80&section=footer" />
+
+</div>
